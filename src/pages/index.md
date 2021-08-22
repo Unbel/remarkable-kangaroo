@@ -7,8 +7,8 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 65
     content: >
-      # Sacral, mystic, esotheric, relict, spirit, soulful, heartwarming,
-      archaic handmade things&#xA;&#xA;&#xA;&#xA;
+      # Sacral, mystic, esotheric, relict, spirit, craft, heartwarming, archaic
+      handmade things&#xA;&#xA;&#xA;&#xA;
 
 
       for you and your intimates.
