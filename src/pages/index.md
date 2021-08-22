@@ -6,11 +6,12 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 65
-    content: >-
-      # Real, beautiful plants right to your door
+    content: >
+      # Sacral, strange, mystic, esotheric, relict, spirit, soulful,
+      heartwarming, archaic handmade things&#xA;&#xA;&#xA;&#xA;
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+
+      for you and your intimates.
     actions:
       - title: See all items
         url: /store
