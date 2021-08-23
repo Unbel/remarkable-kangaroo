@@ -37,7 +37,7 @@ seo:
       value: images/plant1-lg.jpg
       relativeUrl: true
 template: product
-title: backpack shield
+title: Иackpack shield
 ---
 
 # Nulla suscipit
