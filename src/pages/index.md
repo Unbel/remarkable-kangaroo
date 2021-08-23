@@ -4,7 +4,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/cave-painting-6325559_19111111120.jpg
+    background_image: images/hands-731265_111111111111920.jpg
     background_image_opacity: 65
     content: >
       # Sacral, mystic, esotheric, relict, spirit, craft, heartwarming, archaic
