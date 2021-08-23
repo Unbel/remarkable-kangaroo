@@ -1,7 +1,7 @@
 ---
 id: '3'
 price: '70'
-title: Curabitur eu tempor
+title: Chilum OM
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/chilum-om_small.jpg
 default_original_image: images/chilum-om.jpg
