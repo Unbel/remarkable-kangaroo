@@ -1,5 +1,5 @@
 ---
-title: w
+title: Wood
 order: 2
 seo:
   title: Cactuses
