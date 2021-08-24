@@ -6,7 +6,7 @@ description: >-
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
   tincidunt.
 default_thumbnail_image: images/bag.webp
-default_original_image: images/bag.jpg
+default_original_image: images/bag-1e08d87b.webp
 featured: true
 order: 1
 category: src/pages/category/bigplants.md
