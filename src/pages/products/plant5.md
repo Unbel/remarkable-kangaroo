@@ -5,7 +5,7 @@ title: Leather flask
 description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
   volutpat massa dolor id purus.
-default_thumbnail_image: images/botle_s.jpg
+default_thumbnail_image: images/botle.webp
 default_original_image: images/botle.jpg
 featured: true
 order: 5
